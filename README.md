@@ -1,2 +1,2 @@
 # BMI
-Little JS proejct which calculate ur BMI
+Little JS project which calculate ur BMI
