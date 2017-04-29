@@ -4,7 +4,7 @@ function obliczbmi() {
   var waga = document.getElementById("waga").value;
   var wzrost = document.getElementById("wzrost").value;
   return waga / (wzrost/100 * wzrost/100);
-} BMI 
+}  
 //Calculating ideal weight based on perfect BMI index
 function obliczwage() {
     var idealbmi = 23;
