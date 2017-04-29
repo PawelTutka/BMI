@@ -1,2 +1,2 @@
 # BMI
-Little JS project which calculate ur BMI
+Simple website project using JS technology which calculate ur BMI
